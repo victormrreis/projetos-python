@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+meu_diario.txt
+contatos.json
+.vscode/
