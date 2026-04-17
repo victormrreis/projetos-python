@@ -17,6 +17,8 @@ Cada projeto representa um novo conceito aprendido. A ordem das pastas reflete a
 | 07 | [Classes — Cachorros](./07-classes-cachorros) | Classes interagindo, listas de objetos |
 | 08 | [Classes — Veículo](./08-classes-veiculo) | Herança, sobrescrita de métodos, `super()` |
 | 09 | [Classes — Funcionário](./09-classes-funcionario) | Herança, `super().__init__()`, composição |
+| 10 | [Classes — Formas Geométricas](./10-classes-formas) | Polimorfismo, cálculo de áreas |
+| 11 | [Classes — Sistema de Pagamento](./11-classes-pagamento) | Polimorfismo, processamento de pagamentos |
 
 ## Sobre mim
 
