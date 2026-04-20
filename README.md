@@ -19,7 +19,7 @@ Cada projeto representa um novo conceito aprendido. A ordem das pastas reflete a
 | 09 | [Classes — Funcionário](./09-classes-funcionario) | Herança, `super().__init__()`, composição |
 | 10 | [Classes — Formas Geométricas](./10-classes-formas) | Polimorfismo, cálculo de áreas |
 | 11 | [Classes — Sistema de Pagamento](./11-classes-pagamento) | Polimorfismo, processamento de pagamentos |
-| 12 | [Classes — Biblioteca](./12-classes-biblioteca) | Gerenciamento de livros, empréstimos, devoluções |
+| 12 | [Classes — Sistema Bancário](./12-sistema_bancario) | Herança, composição, operações bancárias |
 
 ## Sobre mim
 
